@@ -1,6 +1,6 @@
 # Hi 👋, I'm lowen
 
-### A student currently studying computer science in Hong Kong
+I am a student currently studying computer science in Hong Kong, hoping to make technology helps more people in need.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=L01nki1&label=Profile views&color=0e75b6&style=flat" alt="L01nki1" /> 
