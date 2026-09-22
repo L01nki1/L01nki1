@@ -41,27 +41,13 @@
 
 <h3 align="left">📊 GitHub Stats & Activities:</h3>
 
-<!-- 并排显示统计 -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=L01nki1&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L01nki1&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
 
 <!-- 连续贡献天数 -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- 活动折线图 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L01nki1&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
 
 <!--
 **L01nki1/L01nki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
