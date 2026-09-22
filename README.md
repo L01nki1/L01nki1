@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/L01nki1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="L01nki1" height="30" width="40" /></a>
-<a href="https://kaggle.com/L0vv3N_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="LOvv3N_" height="30" width="40" /></a>
+<a href="https://kaggle.com/L0vv3N_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lowenlee" height="30" width="40" /></a>
 <a href="https://fb.com/Lorrie Li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lorrie Li" height="30" width="40" /></a>
 <a href="https://instagram.com/hiilowen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiilowen" height="30" width="40" /></a>
 <a href="https://twitter.com/loinkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loinkii" height="30" width="40" /></a>
