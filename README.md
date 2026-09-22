@@ -7,7 +7,6 @@
 </p>
 
 - 🔭 I'm currently working on **CityUHub**
-- 🌱 I'm currently learning **algorithm of deep learning and image**
 - 📫 How to reach me **loinkii@foxmail.com**
 
 <h3 align="left">Connect with me:</h3>
