@@ -1,6 +1,6 @@
 # Hi 👋, I'm lowen
 
-### A student in Hong Kong
+### A student currently studying computer science in Hong Kong
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=L01nki1&label=Profile views&color=0e75b6&style=flat" alt="L01nki1" /> 
@@ -17,6 +17,7 @@
   <a href="https://fb.com/Lorrie Li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lorrie Li" height="30" width="40" /></a>
   <a href="https://instagram.com/hiilowen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiilowen" height="30" width="40" /></a>
   <a href="https://twitter.com/loinkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loinkii" height="30" width="40" /></a>
+    <a href="https://space.bilibili.com/346404823" target="blank"><img align="center" src="https://cdn.simpleicons.org/bilibili/FB7299" alt="bilibili" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
