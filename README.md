@@ -15,7 +15,7 @@ I am a student currently studying computer science in Hong Kong, hoping to make 
   <a href="https://kaggle.com/lowenlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="L0vv3N_" height="30" width="40" /></a>
   <a href="https://fb.com/Lorrie Li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lorrie Li" height="30" width="40" /></a>
   <a href="https://instagram.com/hiilowen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiilowen" height="30" width="40" /></a>
-  <a href="https://twitter.com/loinkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loinkii" height="30" width="40" /></a>
+  <a href="https://twitter.com/L01nk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="L01nk11" height="30" width="40" /></a>
     <a href="https://space.bilibili.com/346404823" target="blank"><img align="center" src="https://cdn.simpleicons.org/bilibili/FB7299" alt="bilibili" height="30" width="40" /></a>
 </p>
 
