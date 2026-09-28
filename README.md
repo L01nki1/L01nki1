@@ -1,13 +1,10 @@
 # Hi 👋, I'm lowen
 
-I am a student currently studying computer science in Hong Kong, hoping to make technology helps more people in need.
+I am a master student currently studying computer science in Hong Kong, hoping to make technology helps more people in need.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=L01nki1&label=Profile views&color=0e75b6&style=flat" alt="L01nki1" /> 
 </p>
-
-- 🔭 I'm currently working on **CityUHub**
-- 📫 How to reach me **loinkii@foxmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
