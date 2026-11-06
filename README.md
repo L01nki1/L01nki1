@@ -1,11 +1,11 @@
 <!-- capsule-render header: https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=110&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C6A0,100:E8B98C&height=110&section=header" width="100%" alt="" />
 
 # Hi 👋, I'm lowen
 
 <!-- readme-typing-svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=F97316&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Keep+building%2C+keep+learning;Thanks+for+stopping+by" alt="Typing welcome message" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=9A3412&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Keep+building%2C+keep+learning;Thanks+for+stopping+by" alt="Typing welcome message" />
 </p>
 
 I am a master student currently studying computer science in Hong Kong, hoping to make technology helps more people in need.
@@ -47,15 +47,15 @@ I am a master student currently studying computer science in Hong Kong, hoping t
 
 <!-- 新增：真实统计卡片，theme=transparent 自动适配深浅色；使用活跃维护的继任服务 -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=L01nki1&show_icons=true&theme=transparent&hide_border=true&title_color=EA580C&icon_color=F97316&text_color=EA580C" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=L01nki1&layout=compact&theme=transparent&hide_border=true&title_color=EA580C&text_color=EA580C" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=L01nki1&show_icons=true&theme=transparent&hide_border=true&title_color=7C2D12&icon_color=F97316&text_color=9A3412" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=L01nki1&layout=compact&theme=transparent&hide_border=true&title_color=7C2D12&text_color=9A3412" alt="Top languages" />
 </p>
 
 <!-- 原 Heroku 域名已改为官方 demolab 域名；如需浅色版可再加一个 <picture> 分支 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=L01nki1&theme=transparent&hide_border=true&ring=F97316&fire=F97316&stroke=FED7AA&currStreakNum=EA580C&sideNums=EA580C&currStreakLabel=EA580C&sideLabels=EA580C&dates=9A3412" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=L01nki1&theme=transparent&hide_border=true&ring=F97316&fire=F97316&stroke=FED7AA&currStreakNum=9A3412&sideNums=9A3412&currStreakLabel=9A3412&sideLabels=9A3412&dates=7C2D12" alt="GitHub Streak" />
 </p>
 
 <!-- capsule-render footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C6A0,100:E8B98C&height=100&section=footer" width="100%" alt="" />
 
