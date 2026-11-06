@@ -1,4 +1,12 @@
+<!-- capsule-render header: https://github.com/kyechan99/capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=110&section=header" width="100%" alt="" />
+
 # Hi 👋, I'm lowen
+
+<!-- readme-typing-svg: https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Keep+building%2C+keep+learning;Thanks+for+stopping+by" alt="Typing welcome message" />
+</p>
 
 I am a master student currently studying computer science in Hong Kong, hoping to make technology helps more people in need.
 
@@ -47,4 +55,7 @@ I am a master student currently studying computer science in Hong Kong, hoping t
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- capsule-render footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" alt="" />
 
