@@ -44,6 +44,7 @@ I am a master student currently studying computer science in Hong Kong, hoping t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
 
 <!--
 **L01nki1/L01nki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
