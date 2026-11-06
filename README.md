@@ -37,15 +37,23 @@ I am a master student currently studying computer science in Hong Kong, hoping t
 
 <h3 align="left">📊 GitHub Stats & Activities:</h3>
 
+## 📊 GitHub Stats & Activities
 
-
-<!-- 连续贡献天数 -->
+<!-- 新增：真实统计卡片，theme=transparent 自动适配深浅色；使用活跃维护的继任服务 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=L01nki1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=L01nki1&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-<summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
+<!-- 原 Heroku 域名已改为官方 demolab 域名；如需浅色版可再加一个 <picture> 分支 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!--
-**L01nki1/L01nki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- 注意：这张是 lowlighter/metrics 仓库的示例图，展示的是他人数据，不是你的贡献日历。
+     原 blob 地址返回 HTML 而非图片，已改用 raw 地址；建议用 metrics Action 生成自己的版本后替换。 -->
+<details>
+  <summary>Half year calendar (sample)</summary>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt="Sample isometric contribution calendar" />
+</details>
+
