@@ -48,10 +48,3 @@ I am a master student currently studying computer science in Hong Kong, hoping t
   <img src="https://streak-stats.demolab.com?user=L01nki1&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- 注意：这张是 lowlighter/metrics 仓库的示例图，展示的是他人数据，不是你的贡献日历。
-     原 blob 地址返回 HTML 而非图片，已改用 raw 地址；建议用 metrics Action 生成自己的版本后替换。 -->
-<details>
-  <summary>Half year calendar (sample)</summary>
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt="Sample isometric contribution calendar" />
-</details>
-
