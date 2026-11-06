@@ -37,8 +37,6 @@ I am a master student currently studying computer science in Hong Kong, hoping t
 
 <h3 align="left">📊 GitHub Stats & Activities:</h3>
 
-## 📊 GitHub Stats & Activities
-
 <!-- 新增：真实统计卡片，theme=transparent 自动适配深浅色；使用活跃维护的继任服务 -->
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=L01nki1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
